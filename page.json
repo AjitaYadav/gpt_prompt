@@ -1,0 +1,46 @@
+{
+  "personal_details": {
+    "name": "Full Name",
+    "contact_info": {
+      "email": "email@example.com",
+      "phone": "+1234567890",
+      "address": "Street Address, City, State, ZIP"
+    },
+    "linkedin": "linkedin.com/in/username",
+    "github": "github.com/username"
+  },
+  "education": [
+    {
+      "degree": "Degree Name",
+      "institution": "Institution Name",
+      "location": "City, State",
+      "start_date": "Month Year",
+      "end_date": "Month Year"
+    }
+  ],
+  "work_experience": [
+    {
+      "job_title": "Job Title",
+      "company": "Company Name",
+      "location": "City, State",
+      "start_date": "Month Year",
+      "end_date": "Month Year",
+      "responsibilities": [
+        "Responsibility 1",
+        "Responsibility 2"
+      ]
+    }
+  ],
+  "skills": [
+    "Skill 1",
+    "Skill 2"
+  ],
+  "certifications": [
+    {
+      "certification_name": "Certification Name",
+      "issued_by": "Issuing Organization",
+      "issue_date": "Month Year",
+      "expiration_date": "Month Year"
+    }
+  ]
+}
